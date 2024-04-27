@@ -8,7 +8,7 @@ Este proyecto es una implementación de control de la tortuga utilizando ROS (Ro
 
   ```Usar ros melodic ```
 
-#Demo
+# Demo
 1 - roscore | Iniciar
 2 - devel\setup | en la carpeta del proyecto
 3 - rosrun turtlesim turtlesim_node | se inicia la tortuga
